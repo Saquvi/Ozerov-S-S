@@ -1,0 +1,6 @@
+'company': @hashicorp 
+'created_at': None
+'email':None
+'id':7
+'name':Evan Phoenix
+'url':https://api.github.com/users/evanphx
